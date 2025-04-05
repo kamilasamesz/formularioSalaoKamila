@@ -1,0 +1,7 @@
+{
+  "name": "inicioForm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
